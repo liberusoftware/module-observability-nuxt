@@ -1,0 +1,25 @@
+{
+  "repository": "module-observability-nuxt",
+  "capabilityKey": "liberusoftware/observability",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-observability-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/observability.md",
+  "presentationPlan": "projects/boilerplate/nuxt/observability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
